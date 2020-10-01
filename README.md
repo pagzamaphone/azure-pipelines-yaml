@@ -23,8 +23,3 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-## Security issues
-
-Do you think there might be a security issue with Azure Pipelines?
-Have you been phished or identified a security vulnerability?
-Please don't report it here - let us know by sending an email to secure@microsoft.com.
